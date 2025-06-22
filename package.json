@@ -4,7 +4,7 @@
   "description": "A lightweight and easy to use economy framework for discord bots, uses MongoDB.",
   "main": "index.js",
   "dependencies": {
-    "mongoose": "^6.5.1"
+    "mongoose": "^8.9.5"
   },
   "repository": {
     "type": "git",
@@ -39,6 +39,7 @@
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.2.4",
-    "eslint-plugin-promise": "^6.0.0"
+    "eslint-plugin-promise": "^6.0.0",
+    "mongodb-memory-server": "^10.1.4"
   }
 }
